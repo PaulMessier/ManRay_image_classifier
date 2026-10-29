@@ -1,0 +1,18 @@
+{
+  "0": {"label": "Seated portraits / marked prints", "basis": "Center and random examples show seated or half-length portraits, often with visible crop marks; 728 of 749 catalog media are prints."},
+  "1": {"label": "Dark-toned portrait prints", "basis": "Reviewed examples show portraits with dark clothing, backgrounds, or print tones; 619 of 764 catalog media are prints. Tonal description is provisional."},
+  "2": {"label": "Mounted images / graphic material", "basis": "Center examples include mounted reproductions titled Drawing, Landscape and Entities; random and edge examples include other subjects. This is a mixed group."},
+  "3": {"label": "Film edges / perforations", "basis": "Reviewed center and random examples prominently show film perforations across different depicted subjects; not a claim about every image."},
+  "4": {"label": "Seated portraits / negatives", "basis": "Center examples show seated portrait compositions including catalog-titled Holkar Bahadur images; 902 of 922 catalog media are negatives."},
+  "5": {"label": "Half-length portraits / prints", "basis": "Reviewed examples show seated, bust and half-length portraits; 909 of 976 catalog media are prints. Overlaps thematically with other portrait groups."},
+  "6": {"label": "Front-facing portraits / negatives", "basis": "Center examples emphasize front-facing and seated portrait compositions; 1166 of 1226 catalog media are negatives. Profiles and other compositions also occur."},
+  "7": {"label": "Objects / masks / graphic forms", "basis": "Center and random examples include still-life objects, a mask, rayograph-like forms and portraits; catalog titles corroborate the mixed object-related theme."},
+  "8": {"label": "Interiors / people in settings", "basis": "Reviewed center examples include interiors, studio objects and people in surrounding space; catalog titles mention apartments, an atelier and street settings."},
+  "9": {"label": "Groups / horizontal scenes", "basis": "Center examples show groups, children and a chess gathering, often in horizontal frames; random and edge examples are more heterogeneous."},
+  "10": {"label": "Reproductions / framed forms", "basis": "Center examples and frequent catalog titles include reproductions of artwork and rayographs, alongside portraits and objects; 628 of 739 media are negatives."},
+  "11": {"label": "Architecture / landscapes / travel", "basis": "Reviewed center and random examples show streets, buildings, ports and landscapes; frequent catalog titles corroborate outdoor and travel subjects."},
+  "12": {"label": "Portraits / poses / negatives", "basis": "Center examples show portraits, expressive poses and hands, with heterogeneous edge cases; 1176 of 1211 catalog media are negatives."},
+  "13": {"label": "Body studies / expressive poses", "basis": "Reviewed examples include full-body poses, dance-like gestures, body studies and figures; catalog titles include Nu and fashion-related material. No gender inference."},
+  "14": {"label": "Full-length / fashion / costume", "basis": "Center and random examples show full-length clothing and costume presentations; fashion and performance-related catalog titles support this tentative theme."},
+  "15": {"label": "Bust portraits / gestures / prints", "basis": "Reviewed examples emphasize bust portraits, heads, hands and posed gestures; 648 of 748 catalog media are prints. Not an exclusive subject category."}
+}
